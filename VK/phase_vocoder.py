@@ -4,7 +4,6 @@ import numpy as np
 import soundfile
 import scipy
 
-# TODO: r параметр задан неправильно!! Необходимо поменять местами
 
 N_FFT = 2048
 HOP_LENGTH = N_FFT // 4
